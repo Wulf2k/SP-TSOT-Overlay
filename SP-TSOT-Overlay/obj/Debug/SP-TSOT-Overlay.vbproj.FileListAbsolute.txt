@@ -1,0 +1,11 @@
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\bin\Debug\SP-TSOT-Overlay.exe.config
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\obj\Debug\SP-TSOT-Overlay.vbprojResolveAssemblyReference.cache
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\obj\Debug\SP_TSOT_Overlay.Form1.resources
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\obj\Debug\SP_TSOT_Overlay.Resources.resources
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\obj\Debug\SP-TSOT-Overlay.vbproj.GenerateResource.Cache
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\obj\Debug\SP-TSOT-Overlay.xml
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\bin\Debug\SP-TSOT-Overlay.exe
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\bin\Debug\SP-TSOT-Overlay.pdb
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\bin\Debug\SP-TSOT-Overlay.xml
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\obj\Debug\SP-TSOT-Overlay.exe
+c:\users\lane\documents\visual studio 2015\Projects\SP-TSOT-Overlay\SP-TSOT-Overlay\obj\Debug\SP-TSOT-Overlay.pdb
